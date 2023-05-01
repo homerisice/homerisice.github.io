@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://homerisice.github.io/sitemap.xml
